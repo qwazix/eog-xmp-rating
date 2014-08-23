@@ -1,0 +1,11 @@
+[Plugin]
+Module=libxmprating
+IAge=2
+Loader=python
+Name=xmpRating
+Icon=star
+Description=Add rating metadata to your photos
+Authors=Michael Demetriou <qwazix@gmail.com>
+Copyright=Michael Demetriou
+Website=http://github.com/qwazix/eog-xmp-rating
+
